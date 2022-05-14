@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live Demo for the web app : https://react-todo-app-js.netlify.app/
+
 ## In the project user can create tasks , mark them as complete and delete them.
 
 - Create new task / Mark a task as complete / delete a task 
